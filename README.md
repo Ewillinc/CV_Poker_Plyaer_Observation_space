@@ -2,9 +2,11 @@
 Collecting information from a digital image of the game space. YOLOv8,EfficientNet_b0,EasyOCR.
 The function extracts objects detected using models and determines the relationships between objects in the game. IMG -> Vector
 
-Файлы запуска и обучения находятся в папку scripts.
-Логи обучения Effi-> /scripts/train_logs
-Логи обучения YOLO-> /pretrained/poker
+Файлы запуска и обучения находятся в папкe scripts.
+
+Логи обучения Effi-> /scripts/train_logs.
+
+Логи обучения YOLO-> /pretrained/poker.
 
 Структура проекта.
 1. YOLOv8, обученная на образцах столов в формате COCO, определяет все доступные классы объектов на цифровом изображении.
