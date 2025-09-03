@@ -1,0 +1,17 @@
+names:
+- pot_area
+- player_area
+- player_chips_area
+- check
+- fold
+- call
+- raise
+- fold_player_area
+- bets
+- self_player_area
+- '0'
+- card
+nc: 12
+test: /home/aleshka/PET-PROJECT/Observation_Space_CV/dataset/yolo_det/images/test
+train: /home/aleshka/PET-PROJECT/Observation_Space_CV/dataset/yolo_det/images/train
+val: /home/aleshka/PET-PROJECT/Observation_Space_CV/dataset/yolo_det/images/val

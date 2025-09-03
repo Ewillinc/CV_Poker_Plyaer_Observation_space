@@ -1,0 +1,13 @@
+data/obj_train_data/Снимок экрана от 2025-06-22 17-34-28.png
+data/obj_train_data/Снимок экрана от 2025-06-22 17-34-47.png
+data/obj_train_data/Снимок экрана от 2025-06-22 17-35-23.png
+data/obj_train_data/Снимок экрана от 2025-06-22 17-35-45.png
+data/obj_train_data/Снимок экрана от 2025-06-22 17-36-18.png
+data/obj_train_data/Снимок экрана от 2025-06-22 17-37-47.png
+data/obj_train_data/Снимок экрана от 2025-06-22 17-38-20.png
+data/obj_train_data/Снимок экрана от 2025-06-22 17-38-40.png
+data/obj_train_data/Снимок экрана от 2025-06-22 17-41-57.png
+data/obj_train_data/Снимок экрана от 2025-06-22 17-42-46.png
+data/obj_train_data/Снимок экрана от 2025-06-22 17-43-09.png
+data/obj_train_data/Снимок экрана от 2025-06-22 17-44-19.png
+data/obj_train_data/Снимок экрана от 2025-06-22 17-44-38.png
